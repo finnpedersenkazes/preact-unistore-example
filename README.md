@@ -1,6 +1,7 @@
 # Preact and Unistore
 
-Workin example of Preact with Unistore. 
+Working example of Preact with Unistore. 
+The example does not use TypeScript.
 
 ## Preact
 https://preactjs.com/
